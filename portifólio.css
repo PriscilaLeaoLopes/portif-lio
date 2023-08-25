@@ -1,0 +1,79 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+h2 {
+    color: rgb(114, 7, 78);
+    font-size: 35px;
+}
+
+h1 {
+    color: rgb(94, 33, 51);
+    font-size: 80px;
+}
+
+.box-meut {
+    font-size: 30px;
+}
+
+.box-meuc {
+    font-size: 30px;
+    
+   
+}
+
+
+p {  
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 60px; 
+    color: #030303;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    text-align: left;
+    display:block;
+    position: relative;
+    
+}
+
+
+
+body {
+    background-color: rgb(168, 166, 166);
+    background-image: url(./img/iphone-capa.jpg);
+    opacity: 5;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+   
+}
+
+
+.box-retrato {
+
+    width: 30%;
+    margin-left: 30%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-right: 30px;
+    position: absolute;
+    left: 30%;
+    top: 45%;
+    
+}
+
+.box-link {
+    width: 30%;
+}
+
+.box-git {
+    width: 30%;
+}
+
+
