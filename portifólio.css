@@ -76,4 +76,30 @@ body {
     width: 30%;
 }
 
-
+@media screen and (max-width: 900px){
+    boddy {
+        position: static;
+        max-width: 20%;
+        margin:auto;
+    }
+    p {
+        text-align: left;
+        font-size: 28px;
+        line-height: 48px;
+        opacity: 0.6;
+        margin: 15px 0;
+        width: 500px;
+    }
+    
+    .box-retrato {
+        position: absolute;
+        right: 0%;
+        position: absolute;
+        top: 500px;
+    }
+    
+   h1 {
+         font-size: 30px;
+   }
+    
+}
