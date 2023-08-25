@@ -64,7 +64,7 @@ body {
     margin-right: 30px;
     position: absolute;
     left: 30%;
-    top: 45%;
+    top: 80%;
     
 }
 
@@ -90,16 +90,17 @@ body {
         margin: 15px 0;
         width: 500px;
     }
-    
     .box-retrato {
         position: absolute;
         right: 0%;
-        position: absolute;
-        top: 500px;
+        width: 20%;
+        right: 20%;
+        bottom: 50%;
     }
-    
+
+   
    h1 {
-         font-size: 30px;
+         font-size: 10px;
    }
     
 }
